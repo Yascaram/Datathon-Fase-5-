@@ -38,25 +38,9 @@ A base original (PEDE) foi desmembrada em três conjuntos anuais (`2022.xlsx`, `
 
 ---
 
-## 📂 Como Executar o Projeto
+## 📂 Como Executar o Streamlit
 
-1. Clone este repositório:
-```bash
-git clone https://github.com/seu-usuario/passos-magicos-analise.git
-
-```
-
-
-2. Instale as dependências:
-```bash
-pip install -r requirements.txt
-
-```
-
-
-3. Execute o dashboard:
-```bash
-streamlit run app.py
+https://datathon-fase-5.streamlit.app/
 
 ```
 
